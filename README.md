@@ -1,0 +1,1 @@
+# IoT-Based-Universal-Scope-Egg-Hacthing-System-Protoype-Using-Mamdani-Fuzzy-Logic
